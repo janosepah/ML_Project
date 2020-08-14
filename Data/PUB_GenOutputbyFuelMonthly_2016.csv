@@ -1,4 +1,4 @@
-﻿:DeliveryYear,Month,Fuel,EnergyGW
+DeliveryYear,Month,Fuel,EnergyGW
 2016,January,NUCLEAR,8459.11
 2016,January,GAS,1079.04
 2016,January,HYDRO,3412.83
